@@ -40,5 +40,5 @@ power, we end up choosing Random Forest and use metrics like importance of varia
 feature insights.
 
 # References
-[1] https://www.invespcro.com/blog/customer-acquisition-retention/<n>
+[1] https://www.invespcro.com/blog/customer-acquisition-retention/<br>
 [2] https://media.bain.com/Images/BB_Prescription_cutting_costs.pdf
